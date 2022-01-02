@@ -1,0 +1,10 @@
+https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/data
+
+air_reserve
+air_store_info
+air_visit_data
+date_info
+hpg_reserve
+hpg_store_info
+sample_submission
+store_id_relation
