@@ -1,0 +1,16 @@
+대회소개
+
+평가지표 rmsle
+
+final 제출 파일 설명
+
+data description
+(부가설명, data set(표만들어서), cross validation(전략 소개), 
+사용한 전략, )
+
+코드 설명
+캐글 그대로 아니라, 내가 더 분석해서 설명해야됨
+display() 하면 여러개 한번에 출력 가능
+
+다중공선성
+model에는 영향 없지만, feature importance 영향
